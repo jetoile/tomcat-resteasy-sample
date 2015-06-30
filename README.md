@@ -1,6 +1,4 @@
-This is a sample application which expose a REST API throught RestEasy-Undertow.
-
-Moreover this sample application show how Swagger and Jolokia can be embedded into.
+This is a sample application which expose a REST API throught RestEasy.
 
 
 To build
@@ -12,16 +10,7 @@ mvn package
 
 To launch
 =========
-
-on linux, run: 
-```
-```
+deploy into tomcat
 
 
-To stop
-=======
-
-on linux, run: 
-```
-```
 
