@@ -10,7 +10,7 @@ mvn package
 
 To launch
 =========
-deploy into tomcat
+deploy into tomcat or jetty or whatever
 
 
 
